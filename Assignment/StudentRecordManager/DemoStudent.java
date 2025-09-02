@@ -32,7 +32,7 @@ public class DemoStudent {
         String query = scanner.nextLine();
         boolean found = false;
         for(Student student : studentList){
-            if(student.matchQuery(query)){
+            if(student.matchesQuery(query)){
                 student.printInfo();
                 found = true;
             }

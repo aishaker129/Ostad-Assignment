@@ -35,7 +35,7 @@ public final class Student{
         System.out.println();
     }
 
-    public boolean matchQuery(String query){
+    public boolean matchesQuery(String query){
         String[] parts = fullName.split(" ");
         String lastName;
 
