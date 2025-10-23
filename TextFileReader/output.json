@@ -1,0 +1,6 @@
+[
+  { "numOne": 1.00, "numTwo": 2.00, "operator": "+", "result": 3.00 },
+  { "numOne": 10.00, "numTwo": 4.00, "operator": "/", "result": 2.50 },
+  { "numOne": 5.00, "numTwo": 3.00, "operator": "*", "result": 15.00 },
+  { "numOne": 8.00, "numTwo": 2.00, "operator": "-", "result": 6.00 }
+]
